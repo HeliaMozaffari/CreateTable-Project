@@ -1,0 +1,26 @@
+body{
+	font-family: arial;
+	color:gray;
+	
+	background-color: gold;
+}
+ .main{
+	margin: auto;
+	width: 860px;
+	padding: 110px;
+	background-color: #e6e6fa;
+	box-shadow: 10px 10px 2px #d3d3d3;
+	border-radius: 20px;
+	
+}
+.button {
+  background-color: #4CAF50;
+  border: black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
